@@ -4,7 +4,7 @@
 
 
 
-💚 This is a version1 of a SpringBoot Application and here how it works when we execute this springboot application :-
+💚 This is a v1 of a SpringBoot Application and here how it works when we execute this springboot application :-
   
 1. It starts the SpringBoot application named SpringBootExampleApplication on 'PC Service Tag' name with a certain Process ID (PID).  Means the app gets a core of CPU where it is starting to execute. Also, it logs the location of the app's compiled class files and the username.  <br>
   
